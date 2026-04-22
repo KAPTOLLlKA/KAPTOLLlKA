@@ -27,7 +27,7 @@ Backend engineer focused on Go services for high-throughput fintech and marketpl
 ---
 
 ### Senior Backend Engineer — Alibaba
-`Remote` · `2024 – 2025` · `1.2 years`
+`Remote` · `2024 – 2025` · `1.5 years`
 
 - Developed seller-account backend and payment gateway features across **3 teams** of 6–25 engineers.
 - Built a GitLab AI PR-review bot using a self-hosted MiniMax model; posted inline and summary comments on pull request updates.
@@ -38,7 +38,7 @@ Backend engineer focused on Go services for high-throughput fintech and marketpl
 ---
 
 ### Java Backend Developer — Granicus
-`Remote` · `2022 – 2024` · `1.4 years`
+`Remote` · `2022 – 2024` · `1.11 years`
 
 - Built backend services for digital application processing and workflow automation.
 - Designed and deployed a ClickHouse log analytics module for process monitoring and troubleshooting.
@@ -50,7 +50,7 @@ Backend engineer focused on Go services for high-throughput fintech and marketpl
 ---
 
 ### Senior IT Engineer / Backend Engineer — Backbase
-`Remote` · `2021 – 2022` · `1.2 years`
+`Remote` · `2021 – 2022` · `1.3 years`
 
 - Built a backend API from scratch for an enterprise banking platform.
 - Designed a Flyway/Liquibase-style migration framework for Elasticsearch-backed resources.
@@ -62,7 +62,7 @@ Backend engineer focused on Go services for high-throughput fintech and marketpl
 ---
 
 ### FullStack Software Engineer — Synergy International Systems
-`Yerevan, Armenia` · `2019 – 2021` · `1.8 years`
+`Yerevan, Armenia` · `2019 – 2021` · `1.10 years`
 
 - Developed backend and frontend modules for a CMS/data platform.
 - Built authentication, authorization, data storage, metadata, and validation services.
