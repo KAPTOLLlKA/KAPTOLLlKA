@@ -16,7 +16,7 @@ Backend engineer focused on Go services for high-throughput fintech and marketpl
 ## Experience
 
 ### Golang Backend Engineer — Monzo
-`Remote` · `2025 – Present` · `1.2+ years`
+`Remote` · `2025 – Present`
 
 - Owned a production-critical notification service and built a second Go microservice from scratch.
 - Reduced peak p99 latency from **~150–300ms** to **~60–100ms** for a **500 RPS / 2,000+ peak** notification workload using batching.
